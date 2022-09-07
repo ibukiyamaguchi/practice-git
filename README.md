@@ -1,2 +1,5 @@
 # practice-git
-initial commit
+initial commit  
+second commit  
+third commit  
+4th commit
